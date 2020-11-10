@@ -18,4 +18,5 @@ This small program allows the user to add cars and perform basic functions on it
     
 ## Requirements
 * [Java](https://java.com/en/download/)
+* [Eclipse](https://www.eclipse.org/downloads/)
 * [JUnit Platform for Testing](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.5.0/junit-platform-console-standalone-1.5.0.jar)
