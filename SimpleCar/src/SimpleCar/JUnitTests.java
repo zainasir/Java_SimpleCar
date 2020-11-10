@@ -1,4 +1,4 @@
-package lab04;
+package SimpleCar;
 
 import static org.junit.jupiter.api.Assertions.*;
 
